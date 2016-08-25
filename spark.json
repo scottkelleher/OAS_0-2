@@ -1,6 +1,6 @@
 {
     "name": "OAS_0-2",
-    "version": "0.2",
+    "version": "0.2.0",
     "author": "Josh Smith, Scott Kelleher",
     "license": "N/A",
     "description": "Outdoor Air Sampler code verison 0-2"
